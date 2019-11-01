@@ -11,7 +11,11 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>MainWindow</string>
+   <string>GBS控制台</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>../img/GBS.ico</normaloff>../img/GBS.ico</iconset>
   </property>
   <widget class="QWidget" name="centralwidget">
    <layout class="QHBoxLayout" name="horizontalLayout">
@@ -226,7 +230,7 @@
                   </size>
                  </property>
                  <property name="text">
-                  <string>34020000001320000001</string>
+                  <string>34020000002000000001</string>
                  </property>
                 </widget>
                </item>
@@ -279,7 +283,7 @@
                   </size>
                  </property>
                  <property name="text">
-                  <string>5060</string>
+                  <string>5082</string>
                  </property>
                 </widget>
                </item>
@@ -327,7 +331,7 @@
                   </size>
                  </property>
                  <property name="text">
-                  <string>192.168.0.222</string>
+                  <string>192.168.8.2</string>
                  </property>
                 </widget>
                </item>
@@ -362,7 +366,7 @@
                   </size>
                  </property>
                  <property name="text">
-                  <string>34020000</string>
+                  <string>3402000000</string>
                  </property>
                 </widget>
                </item>

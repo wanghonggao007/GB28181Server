@@ -55,6 +55,8 @@ MainWindow::MainWindow(QWidget *parent) :
 
     ui->pushButton_catlog->setEnabled(false);
     ui->pushButton_invite->setEnabled(false);
+    //////////////
+     this->setWindowState(Qt::WindowMaximized);
 }
 
 MainWindow::~MainWindow()
